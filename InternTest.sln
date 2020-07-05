@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternTest", "InternTest.csproj", "{93A38324-0745-49FE-9A0F-6F0EB7770890}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InternTestSetup", "..\InternTestSetup\InternTestSetup.vdproj", "{32BEEB75-3713-4B93-9639-A41FD98CE1AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93A38324-0745-49FE-9A0F-6F0EB7770890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A38324-0745-49FE-9A0F-6F0EB7770890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A38324-0745-49FE-9A0F-6F0EB7770890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A38324-0745-49FE-9A0F-6F0EB7770890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32BEEB75-3713-4B93-9639-A41FD98CE1AD}.Debug|Any CPU.ActiveCfg = Debug
+		{32BEEB75-3713-4B93-9639-A41FD98CE1AD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C5D7A1D-5ACD-4D3A-A796-D39D88C1E39C}
+	EndGlobalSection
+EndGlobal
